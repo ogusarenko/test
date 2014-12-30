@@ -4,4 +4,8 @@ hello
 
 this is the test
 
+<<<<<<< HEAD
 local changes 2222   
+=======
+1111
+>>>>>>> 7b0cb6b3b48b9dff39f60d82ebabf7b356b618a2
